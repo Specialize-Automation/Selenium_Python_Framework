@@ -1,0 +1,5 @@
+{
+  "Scripts/test_MercuryTours_HomePage.py": true,
+  "Scripts/test_MercuryTours_Registration.py": true,
+  "Scripts/test_MercuryTours_SignOn.py": true
+}
